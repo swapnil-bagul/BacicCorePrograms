@@ -37,17 +37,15 @@ namespace BasicCorePrograms
                 }
               
             }
-           //formula for finding percentage
+            //formula for finding percentage
             int headsPercentage = headsCount * 100 / count;
             int tailsPercentage = tailsCount * 100 / count;
             // display the output
             Console.WriteLine("Heads Percentage is: " +headsPercentage );
             Console.WriteLine("Tails Percentage is: " +tailsPercentage );
 
-
         }
-
-            
+   
     }
 }
             

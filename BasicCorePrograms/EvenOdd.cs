@@ -11,8 +11,10 @@ namespace BasicCorePrograms
             //taking input from user
             Console.Write("Enter the Number: ");
             int num = Convert.ToInt32(Console.ReadLine());
+           
             //find reminder
             int res = num % 2;
+            
             //if else progrmming construct
             if (res == 0)
             {

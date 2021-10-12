@@ -46,10 +46,7 @@ namespace BasicCorePrograms
 
                 }
 
-
             }
-
-
 
         }
     }

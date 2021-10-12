@@ -57,9 +57,6 @@ namespace BasicCorePrograms
                     HarmonicNum.Series();
                     break;
 
-                
-
-
             }
             
         }
