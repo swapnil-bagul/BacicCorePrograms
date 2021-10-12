@@ -12,9 +12,11 @@ namespace BasicCorePrograms
             Console.WriteLine("Enter two Number");
             double  firstNum = Convert.ToDouble (Console.ReadLine());
             double  secondNum = Convert.ToDouble (Console.ReadLine());
+            
             //forumula for Quotient & Reminder
             double quotient = firstNum / secondNum;
             double reminder = firstNum % secondNum;
+            
             // display output of application
             Console.WriteLine("Quotient: " + quotient);
             Console.WriteLine("Reminder: " + reminder);
